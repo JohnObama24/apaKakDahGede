@@ -1,0 +1,4 @@
+Version Control adalah sebuah system yang merekam perubahan pada file dari
+waktu ke waktu, sehingga kita bisa melihat versi sebelumnya jika diinginkan.
+Version Control dapat mendukung untuk berbagai jenis file.
+
