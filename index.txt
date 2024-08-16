@@ -6,3 +6,8 @@ git add {nama file} => untuk memilih secara spesifik nama file yang akan di uplo
 git add . => untuk memilih semua file didalam folder untuk di upload
 git commit -m "apakek dah gede" => untuk memberikan deskripsi pada postingan/upload
 git config --global user.name/user.email [username/email] => mengatur username dan email github pada postingan/upload secara global
+git branch -M main => membuat wadah untuk menyimpan semua folder/file dalam repo github
+git remote add origin https://github.com/JohnObama24/apaKakDahGede.git => melakukan remote dari device pribadi pada github
+git push -u origin main => mendorong/mengupload semua file/folder yang sudah kita pilih {add} dan kita berikan deskripsi {commit} ke repository yang sudah di inisialisai pada branch yang sudah di tentukan sebelumnya
+
+selamat kalian berhasil
