@@ -1,4 +1,8 @@
 Version Control adalah sebuah system yang merekam perubahan pada file dari
 waktu ke waktu, sehingga kita bisa melihat versi sebelumnya jika diinginkan.
 Version Control dapat mendukung untuk berbagai jenis file.
-
+Git init => untuk inisialisas atau memilih folder yang akan di upload
+git add {nama file} => untuk memilih secara spesifik nama file yang akan di upload
+git add . => untuk memilih semua file didalam folder untuk di upload
+git commit -m "apakek dah gede" => untuk memberikan deskripsi pada postingan/upload
+git config --global user.name/user.email [username/email] => mengatur username dan email github pada postingan/upload secara global
